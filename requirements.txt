@@ -1,5 +1,2 @@
-voila
-fastai
-pillow
-packaging
+fastbook
 ipywidgets
